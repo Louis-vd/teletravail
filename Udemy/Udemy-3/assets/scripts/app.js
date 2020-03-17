@@ -13,7 +13,7 @@ const entryTextSection = document.getElementById('entry-text');
 const deleteMovieModal = document.getElementById('delete-modal');
 
 
-let louis = 'tlétravail de merde ';
+let personalize = "movie";
 
 const movies = [];
 
