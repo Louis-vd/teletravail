@@ -19,4 +19,4 @@ $(document).ready(function(){
   })
 })
 
-let choosOne = 'tru';
+let choosOne = 'dfshgykkq';
