@@ -13,7 +13,7 @@ const entryTextSection = document.getElementById('entry-text');
 const deleteMovieModal = document.getElementById('delete-modal');
 
 
-let personalize = "movietw";
+let personalize = "movieOne";
 
 const movies = [];
 

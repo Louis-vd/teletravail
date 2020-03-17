@@ -17,3 +17,22 @@
 - 15h00: PAUSE
 
 - 15h00 - 17h00: Fin du chapitre sur le DOM et fin de l'exercice proposé.
+
+
+## Mardi 17/03/2020  
+
+- 9h00 - 11h00: Reprise du cours Javascript sur Udemy (Classes and objects-riented Programming) + mise en place d'un repo pour le télétravail  
+
+- 11h00: PAUSE
+
+- 11h15 - 12h30: Réalisation du Readme du 16/03 + Cours Udemy sur la Poo en Js.
+
+- 12h30: PAUSE
+
+- 13h30 - 13h50: Veille
+
+- 14h00 - 15h00: Reprise du projet perso (projet resto), responsivité
+
+- 15h15: PAUSE
+
+- 15h15 - 17h: Projet perso, mise en place d'un carroussel, changement police et photo
