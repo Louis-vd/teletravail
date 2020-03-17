@@ -35,4 +35,4 @@
 
 - 15h15: PAUSE
 
-- 15h15 - 17h: Projet perso, mise en place d'un carroussel, changement police et photo
+- 15h15 - 17h: Projet perso, mise en place de index.html et galery.html
