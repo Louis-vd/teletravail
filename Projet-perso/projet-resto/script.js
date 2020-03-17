@@ -18,3 +18,5 @@ $(document).ready(function(){
     })
   })
 })
+
+let choosOne = 'tru';
