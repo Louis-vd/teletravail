@@ -10,5 +10,13 @@
 // You will have time to focus on it later.
 
 (() => {
+
+    let age = prompt("Quel age as-tu ?");
+    let sex = prompt("De quel sexe est tu ?");
+    let ville = prompt("Ou habites-tu ?");
+
+    confirm("age = " + age  +
+          "sexe = " + sex +
+          "ville = " + ville)
     // your code here
 })();

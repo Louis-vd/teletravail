@@ -10,5 +10,12 @@
 // You will have time to focus on it later.
 
 (() => {
+    let someCake = prompt("Voulez vous du gateau ?")
+    
+    if (someCake === "oui"){
+        alert("Bravo tu vas en avoir")
+    }else{
+        alert("Sérieux ? Ca se refuse pas")
+    }
     // your code here
 })();

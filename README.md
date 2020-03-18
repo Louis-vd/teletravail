@@ -35,4 +35,13 @@
 
 - 15h15: PAUSE
 
-- 15h15 - 17h: Projet perso, mise en place de index.html et galery.html
+- 15h15 - 17h: Projet perso, mise en place de index.html et galery.html  
+
+
+## Mercredi 18/03/2020  
+
+- 9H00: Début de journée, exercices de révision Javascript  
+
+- 11h00: PAUSE  
+
+- 11h15-12h30: Exercices de révision Javascript (encore)
