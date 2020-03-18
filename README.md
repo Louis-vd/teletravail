@@ -45,3 +45,11 @@
 - 11h00: PAUSE  
 
 - 11h15-12h30: Exercices de révision Javascript (encore)
+
+- 12h30: PAUSE
+
+- 13h30 -14h00: Veille
+
+- 14h00 - 15h00: Exercices de révision Javascript (math et dom) + vidéo en ligne Javascript
+
+- 15h00 - 17h00: Travail sur site perso (formulaire)

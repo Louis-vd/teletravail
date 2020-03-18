@@ -10,5 +10,9 @@
 // You will have time to focus on it later.
 
 (() => {
+
+    document.getElementById('run').addEventListener('click', () =>{
+        document.body.style.backgroundColor = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
+    })
     // your code here
 })();

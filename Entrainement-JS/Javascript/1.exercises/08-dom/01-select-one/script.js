@@ -10,5 +10,6 @@
 // You will have time to focus on it later.
 
 (() => {
+    document.getElementById('target').innerHTML = "Owned";
     // your code here
 })();
