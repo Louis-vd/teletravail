@@ -53,3 +53,22 @@
 - 14h00 - 15h00: Exercices de révision Javascript (math et dom) + vidéo en ligne Javascript
 
 - 15h00 - 17h00: Travail sur site perso (formulaire)
+
+
+## Jeudi 19/03/2020
+
+- 9h00 - 11h00 : Exercices de révision Javascript, vidéo en ligne sur Js
+
+- 11h : PAUSE
+
+- 11h15 - 12h30: Je continue les exercices de révision (array, object, classes)
+
+- 12h30 : PAUSE
+
+- 13h30 - 14h00 : Veille
+
+- 14h00 - 15h00 : JE continues les exercices de revision
+
+- 15h00: PAUSE
+
+- 15h30 -17h00: Exercice JAvascript array , dom
