@@ -13,10 +13,13 @@
 
     const date = new Date();
     const hour = date.getHours();
+    const min = date.getMinutes();
 
     const options = { weekday:'long', year: 'numeric', month:'long', day:'numeric'};
+    const now = date.toLocaleDateString('fr-FR', options) + ', ' + hour + 'H' + min;
     
-    console.log(date.toLocaleDateString('fr-FR', options) + hour);
+    document.getElementById('target').innerHTML = now;
+    
     // to change the content of a tag: document.getElementById("element-id").innerHTML = "new-value"
     // your code here
 })();
