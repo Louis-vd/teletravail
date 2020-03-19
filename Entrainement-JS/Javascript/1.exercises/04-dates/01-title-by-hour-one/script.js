@@ -10,6 +10,15 @@
 // You will have time to focus on it later.
 
 (() => {
+    const date = new Date();
+    const hour = date.getHours();
+
+
+    if (hour < 18){
+        alert("Bonjour");
+    }else{
+        alert("Bonsoir");
+    }
     // to change the content of a tag: document.getElementById("element-id").innerHTML = "new-value"
     // your code here
-})();jk
+})();

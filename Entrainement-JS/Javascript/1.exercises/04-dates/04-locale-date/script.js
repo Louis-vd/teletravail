@@ -10,6 +10,13 @@
 // You will have time to focus on it later.
 
 (() => {
+
+    const date = new Date();
+    const hour = date.getHours();
+
+    const options = { weekday:'long', year: 'numeric', month:'long', day:'numeric'};
+    
+    console.log(date.toLocaleDateString('fr-FR', options) + hour);
     // to change the content of a tag: document.getElementById("element-id").innerHTML = "new-value"
     // your code here
 })();
