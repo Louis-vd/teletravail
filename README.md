@@ -72,3 +72,19 @@
 - 15h00: PAUSE
 
 - 15h30 -17h00: Exercice JAvascript array , dom
+
+## Vendredi 20/03/2020
+
+- 9h - 11h :  Cours Udemy (Http REquest)
+
+- 11h: Pause
+
+- 11h15 - 12h30: Cours Udemy
+
+- 12h30 : PAUSE
+
+- 13h30 - 14h00: Veille
+
+- 14h00 - 15h00 : Cours udemy js 
+
+- 15h00 - 17h00: cours udemy Js (introduction to testing)
